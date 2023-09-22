@@ -1,1 +1,1 @@
-apt update -y && apt upgrade -y && apt install default-jre -y && git clone https://github.com/frelek123/24g13f21d3ws.git && apt install screen -y
+apt update -y && apt upgrade -y && apt install default-jre -y && apt install screen -y
